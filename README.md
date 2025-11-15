@@ -1,3 +1,3 @@
-# Rock-Paper_Scissors
+# Rock-Paper-Scissors
 
-Tiny game made with Vue.JS and TailwindCSS
+This is a tiny game made with Vue.JS and TailwindCSS
